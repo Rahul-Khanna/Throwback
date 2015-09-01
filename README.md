@@ -1,7 +1,7 @@
 Throwback For Last.fm
 =========
 
-Throwback by Rahul Khanna and Sameer Lal
+Throwback by Rahul Khanna
 
 How to run and compile the code: When in the directory with the java source files type these commands:
 
